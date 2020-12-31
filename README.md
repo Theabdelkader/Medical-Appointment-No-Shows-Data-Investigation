@@ -14,12 +14,12 @@ Medical Appointment No Shows, found attached.
 The original problem description and data set can be found 
 here: https://www.kaggle.com/joniarroba/noshowappointments/home
 
-#Statistical Analysis Scope
+# Statistical Analysis Scope
 Data Wrangling
 Exploratory Data Analysis (EDA)
 Examination of central tendency and spread
 Data visualizations
 
-#Tools
+# Tools
 Python, libraries: numpy, pandas, matplotlib, seaborn, warnings
 Jupyter Notebook
